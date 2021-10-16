@@ -1,4 +1,5 @@
-# Hello, I'am Pineapple!
+# Hi there 👋
+I'am Pineapple!
 
 ## About Me
 - 🎓 A university student in Suzhou China
