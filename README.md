@@ -8,7 +8,7 @@ I'am Pineapple!
 
 ## Rank and Languages 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pineapple-cpp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pineapple-cpp&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=pineapple-cpp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pineapple-cpp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pineapple-cpp&layout=compact&theme=buefy&hide_border=true&langs_count=8"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pineapple-cpp&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 ## Active Repositories
