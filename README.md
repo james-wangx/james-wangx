@@ -1,10 +1,10 @@
 # Hi there 👋
-I'am Pineapple!
+**I'am Pineapple!**
 
 ## About Me
-- 🎓 A university student in Suzhou China
-- 🙊 Love writing Python and C
-- 🎵 Like electronic music
+- 🎓 **A university student in Suzhou China**
+- 🙊 **Love writing Python and C**
+- 🎵 **Like electronic music**
 
 ## Rank and Languages 
 
