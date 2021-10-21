@@ -12,5 +12,5 @@
 
 **Active Repositories**
 
-| <a href="https://github.com/pineapple-cpp/BingImageSpider"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=BingImageSpider&theme=buefy" /></a> | <a href="https://github.com/pineapple-cpp/cms"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=cms&theme=buefy" /></a> |
+| <a href="https://github.com/pineapple-cpp/bing-image-spider"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=bing-image-spider&theme=buefy" /></a> | <a href="https://github.com/pineapple-cpp/cms"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=cms&theme=buefy" /></a> |
 | ------------- | ------------- |
