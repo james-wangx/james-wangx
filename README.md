@@ -12,5 +12,5 @@
 
 **Active Repositories**
 
-| <a href="https://github.com/pineapple-cpp/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=dsaa&theme=buefy" /></a> | <a href="https://github.com/pineapple-cpp/flask-blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=flask-blog&theme=buefy" /></a> |
+| <a href="https://github.com/pineapple-cpp/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=dsaa&theme=buefy" /></a> | <a href="https://github.com/pineapple-cpp/MapReduceDemo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=MapReduceDemo&theme=buefy" /></a> |
 | ------------- | ------------- |
