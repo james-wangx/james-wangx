@@ -12,5 +12,5 @@
 
 **Active Repositories**
 
-| <a href="https://github.com/pineapple-cpp/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=dsaa&theme=buefy" /></a> | <a href="https://github.com/pineapple-cpp/cmake-tutorial"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=cmake-tutorial&theme=buefy" /></a> |
+| <a href="https://github.com/pineapple-cpp/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=dsaa&theme=buefy" /></a> | <a href="https://github.com/pineapple-cpp/polynomial"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=polynomial&theme=buefy" /></a> |
 | ------------- | ------------- |
