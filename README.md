@@ -12,5 +12,5 @@
 
 **Active Repositories**
 
-| <a href="https://github.com/pineapple-cpp/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=dsaa&theme=buefy" /></a> | <a href="https://github.com/pineapple-cpp/c-primer-plus-6e"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=c-primer-plus-6e&theme=buefy" /></a> |
+| <a href="https://github.com/pineapple-cpp/c-primer-plus-6e"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=c-primer-plus-6e&theme=buefy" /></a> | <a href="https://github.com/pineapple-cpp/c-primer-plus-6e"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pineapple-cpp&repo=c-primer-plus-6e&theme=buefy" /></a> |
 | ------------- | ------------- |
