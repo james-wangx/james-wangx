@@ -12,5 +12,5 @@
 
 **Active Repositories**
 
-| <a href="https://github.com/james-wangx/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-wangx&repo=dsaa&theme=buefy" /></a> | <a href="https://github.com/james-wangx/rust-book"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-wangx&repo=rust-book&theme=buefy" /></a> |
+| <a href="https://github.com/james-wangx/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-wangx&repo=dsaa&theme=buefy" /></a> | <a href="https://github.com/james-wangx/minigrep"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-wangx&repo=minigrep&theme=buefy" /></a> |
 | ------------- | ------------- |
