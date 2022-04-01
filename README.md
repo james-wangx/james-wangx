@@ -11,7 +11,7 @@
 | ------------- | ------------- |
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=james-wangx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&line_height=21&bg_color=0,EFFF83,83FFF1"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-wangx&layout=compact&theme=buefy&hide_border=true&hide_title=true&langs_count=6&exclude_repo=pandas-notes&bg_color=0,83FFF1,B183FF&hide=html,css,jupyter notebook,cmake" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=james-wangx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&line_height=20&bg_color=0,EFFF83,83FFF1"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-wangx&layout=compact&theme=buefy&hide_border=true&hide_title=true&langs_count=6&exclude_repo=pandas-notes&bg_color=0,83FFF1,B183FF&hide=html,css,jupyter notebook,cmake" />
 
 
 **Active Repositories**
