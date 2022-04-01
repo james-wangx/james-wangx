@@ -12,7 +12,6 @@
 
 **Active Repositories**
 
-| <a href="https://github.com/james-wangx/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-wangx&repo=dsaa&theme=buefy" /></a> | <a href="https://github.com/james-wangx/minigrep"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-wangx&repo=minigrep&theme=buefy" /></a> |
+| <a href="https://github.com/james-wangx/dsaa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-wangx&repo=dsaa&theme=buefy&bg_color=" /></a> | <a href="https://github.com/james-wangx/minigrep"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james-wangx&repo=minigrep&theme=buefy" /></a> |
 | ------------- | ------------- |
 
-0,EFFF83,83FF93,83FFF1,83FFF1,83A3FF,B183FF
