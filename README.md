@@ -2,8 +2,9 @@
 
 **About Me**
 - 🎓 A university student in Suzhou China
-- 🙊 Love writing Python and C
-- 🎵 Like electronic music
+- 🙊 Love writing Python and Rust
+- 🔑 Inspirational to become a penetration test engineer
+- 💿 Like electronic music
 
 **Grade and Languages**
 
